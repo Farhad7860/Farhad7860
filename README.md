@@ -15,12 +15,24 @@
 
 ---
 
-## 👨‍💻 Who I Am
+## 👨‍💻 About Me
 
-```typescript
-const farhad7860 = {
-  title: "MERN Stack Developer",
-  stack: ["MongoDB", "Express.js", "React", "Node.js"],
+```javascript
+const farhad = {
+  name: "Farhad Khan",
+  username: "Farhad7860",
+  role: "MERN Stack Developer",
+  technologies: {
+    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    tools: ["Git", "GitHub", "VS Code"]
+  },
+  interests: [
+    "Full-Stack Development",
+    "Building Web Applications",
+    "Learning New Technologies"
+  ]
 };
 ```
 
@@ -28,44 +40,43 @@ const farhad7860 = {
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java&theme=dark" alt="Programming languages" />
+</p>
 
-**Frontend**
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend technologies" />
+</p>
 
-**Backend**
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies" />
+</p>
 
-**Database**
+### Database and Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode&theme=dark" alt="Database and development tools" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Farhad7860&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad7860&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=d8dee9" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Farhad7860&show_icons=true&count_private=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad7860&layout=compact&langs_count=10&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=d8dee9" alt="Top programming languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Farhad7860&theme=nord&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&border=7dd3fc" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Farhad7860&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub trophies" />
+<img src="https://streak-stats.demolab.com?user=Farhad7860&theme=nord&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&border=7dd3fc" alt="GitHub contribution streak" />
 
 </div>
 
@@ -75,18 +86,52 @@ const farhad7860 = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhad7860&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&bg_color=0d1117" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhad7860&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&bg_color=0d1117" alt="Contribution activity graph" width="100%" />
 
 </div>
 
 ---
 
-## 🤝 Connect
+## 🚀 My Projects
+
+<div align="center">
+
+<a href="https://github.com/Farhad7860/Restaurant-Booking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhad7860&repo=Restaurant-Booking&theme=nord&border_color=7dd3fc" alt="Restaurant Booking project" />
+</a>
+
+<a href="https://github.com/Farhad7860/TirthSaathi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhad7860&repo=TirthSaathi&theme=nord&border_color=7dd3fc" alt="TirthSaathi project" />
+</a>
+
+<a href="https://github.com/Farhad7860/Smartshop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhad7860&repo=Smartshop&theme=nord&border_color=7dd3fc" alt="Smartshop project" />
+</a>
+
+<a href="https://github.com/Farhad7860/TaskFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhad7860&repo=TaskFlow&theme=nord&border_color=7dd3fc" alt="TaskFlow project" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Farhad7860&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Farhad7860">
-  <img src="https://img.shields.io/badge/GitHub-Farhad7860-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Farhad7860-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="GitHub profile" />
 </a>
 
 <br/><br/>
